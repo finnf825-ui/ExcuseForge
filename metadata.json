@@ -1,0 +1,6 @@
+{
+  "name": "Excuse Generator 3000",
+  "description": "An interactive AI-powered excuse generator for procrastinators, students, and escape artists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
